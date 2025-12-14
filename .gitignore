@@ -1,0 +1,16 @@
+# Telethon session
+audio_bot.session
+audio_bot.session-journal
+
+# Temporary files
+temp_files/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
